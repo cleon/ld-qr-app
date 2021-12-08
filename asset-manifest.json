@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ld-qr-app/static/css/main.b3aa442e.chunk.css",
+    "main.js": "/ld-qr-app/static/js/main.9eddf3fc.chunk.js",
+    "main.js.map": "/ld-qr-app/static/js/main.9eddf3fc.chunk.js.map",
+    "runtime-main.js": "/ld-qr-app/static/js/runtime-main.1bc442e8.js",
+    "runtime-main.js.map": "/ld-qr-app/static/js/runtime-main.1bc442e8.js.map",
+    "static/js/2.0043f2b6.chunk.js": "/ld-qr-app/static/js/2.0043f2b6.chunk.js",
+    "static/js/2.0043f2b6.chunk.js.map": "/ld-qr-app/static/js/2.0043f2b6.chunk.js.map",
+    "static/js/3.3699f9d1.chunk.js": "/ld-qr-app/static/js/3.3699f9d1.chunk.js",
+    "static/js/3.3699f9d1.chunk.js.map": "/ld-qr-app/static/js/3.3699f9d1.chunk.js.map",
+    "index.html": "/ld-qr-app/index.html",
+    "static/css/main.b3aa442e.chunk.css.map": "/ld-qr-app/static/css/main.b3aa442e.chunk.css.map",
+    "static/js/2.0043f2b6.chunk.js.LICENSE.txt": "/ld-qr-app/static/js/2.0043f2b6.chunk.js.LICENSE.txt",
+    "static/media/ld_logo.6d1dea16.png": "/ld-qr-app/static/media/ld_logo.6d1dea16.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bc442e8.js",
+    "static/js/2.0043f2b6.chunk.js",
+    "static/css/main.b3aa442e.chunk.css",
+    "static/js/main.9eddf3fc.chunk.js"
+  ]
+}
